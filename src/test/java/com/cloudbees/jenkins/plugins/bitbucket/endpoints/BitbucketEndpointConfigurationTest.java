@@ -38,6 +38,7 @@ import hudson.security.AuthorizationStrategy;
 import hudson.security.FullControlOnceLoggedInAuthorizationStrategy;
 import hudson.util.ListBoxModel;
 import io.jenkins.plugins.casc.ConfigurationAsCode;
+import java.io.IOException;
 import java.io.File;
 import java.net.URL;
 import java.util.Arrays;
